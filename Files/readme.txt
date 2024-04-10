@@ -1,0 +1,1 @@
+Cateva dintre fisierele care sunt aici nu sunt facute de catre DevArchitect, aceste fisiere sunt folosite in scop personal.
